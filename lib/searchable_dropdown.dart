@@ -799,6 +799,7 @@ class _DropdownDialogState<T> extends State<DropdownDialog> {
               titleBar(),
               searchBar(),
               list(),
+                Text("test"),
               closeButtonWrapper(),
             ],
           ),
