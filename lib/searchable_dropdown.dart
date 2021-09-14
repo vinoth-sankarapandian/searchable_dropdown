@@ -799,7 +799,7 @@ class _DropdownDialogState<T> extends State<DropdownDialog> {
               titleBar(),
               searchBar(),
               list(),
-                Text("test"),
+                 Divider(color:Colors.grey,height: 5, thickness: 1, indent: 5, endIndent: 5,),
               closeButtonWrapper(),
             ],
           ),
